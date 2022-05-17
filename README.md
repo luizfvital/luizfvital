@@ -1,6 +1,6 @@
 ### Hi there! I'm Luiz Fernando Vital.
 
-Full-Stack Developer with 2+ years of experience with a focus on ReactJS.
+Front-end Developer with 2+ years of experience with a focus on ReactJS.
 Supportive and enthusiastic team player dedicated to efficiently resolving project issues. 
 Ability and willingness to innovate and learn new technologies, quick learner passionate about development.
 
